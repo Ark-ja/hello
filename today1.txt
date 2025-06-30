@@ -1,0 +1,3 @@
+Kafta data warehouse
+Aws Glue Athene(Query Editor)
+Redshift aWS data warehouse
